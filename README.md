@@ -10,7 +10,7 @@ React + Vite + Tailwind CSS frontend for the Money Manager web application.
 ## Project Deploy Link:
 https://moneymanagementguvi.netlify.app/
 
---
+---
 ## Setup
 
 1. Create `.env` (optional):
